@@ -1,0 +1,37 @@
+﻿To-Do:
+- Marker Logo Design ✔
+- MarkerTracking Logik aus der VuforiaTest Scene in GameLoop Scene kopieren ✔
+- GestureController, AvatarModel und TrackingManager in teacher script verlinken ✔
+
+allgemein:
+- Sounds testen ✔ 
+- Evtl. Leute am DemoDay aufnehmen für Trailer Footage; OBS aufsetzen + Klären ob wir den guten GamesLab Rechner verwenden können ✔
+- Debug Menü ingame + shortcut zum an/ausschalten ✔
+- Shortcuts um Inteaktionen zu triggern ✔
+- Shortcut um Mic Amplify zu vergrößern/verkleinern ✔
+
+Robin:
+- Redende Schüler immer Paarweise miteinander ✔
+- Mic Level anpassen / value zum anpassen exposen? ✔
+- Mic Anzeige deaktiveren ✔
+- Ball Flugkurve anpassen/reworken ✔
+- Mic wurde grade beim testen manchmal nicht erkannt? Bug?
+
+Florian:
+-Papierfliefer Prefab fixen und richtig verlinken ✔
+-> Plane mit Kamerabild in Scene ✔
+
+Dorian:
+- Highscoreliste fixen ✔
+
+Nice-To-Have:
+- ChromaLighting für Haare
+
+Neue TODOs:
+- Logo auf den Startscreen 
+- Soundsystem für DemoDay 
+- Klettband beim Obi kaufen
+- Marker und Einverständniserklärungen ausdrucken, Marker 3x, Zettel 3x
+
+
+  !!! Game Design Dokument !!!
